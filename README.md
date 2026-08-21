@@ -8,15 +8,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christian-jayme-4435601b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://about.me/christian-jayme"><img src="https://img.shields.io/badge/Portfolio-1F2328?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:christian.jayme26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-I build the product layer — mobile apps, web front ends, and increasingly the **AI features inside them**.
-
-Started in native Android at **Kyocera**, where I went from engineer to Android Tech Lead and Scrum Master, and shipped three apps to the Play Store, two of which are still live. Now at **Tahche**, working across a five-app recruitment platform and building LLM-powered features that real users touch every day — not demos.
+I build the product layer — mobile apps, web front ends, and increasingly the **AI features inside them**. Started in native Android at **Kyocera**, where I went from engineer to Android Tech Lead and Scrum Master and shipped three apps to the Play Store. Now at **Tahche**, working across a five-app recruitment platform and building LLM-powered features that real users touch every day — not demos.
 
 The work I'm proudest of isn't the model call. It's everything around it: what happens when generation fails, how a user edits AI output without losing their draft, and how you ship the same AI experience into two different apps without forking the code.
 
