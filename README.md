@@ -3,7 +3,7 @@
 <p align="center">
   <b>Software Engineer</b> — Mobile, Frontend &amp; AI Features
   <br>
-  <sub>6+ years shipping production apps · 3 apps live on the Play Store · Cebu, Philippines 🇵🇭</sub>
+  <sub>6+ years shipping production apps · 3 Android apps shipped to the Play Store · Cebu, Philippines 🇵🇭</sub>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 I build the product layer — mobile apps, web front ends, and increasingly the **AI features inside them**.
 
-Started in native Android at **Kyocera**, where I went from engineer to Android Tech Lead and Scrum Master, and shipped three apps that are still live on the Play Store. Now at **Tahche**, working across a five-app recruitment platform and building LLM-powered features that real users touch every day — not demos.
+Started in native Android at **Kyocera**, where I went from engineer to Android Tech Lead and Scrum Master, and shipped three apps to the Play Store, two of which are still live. Now at **Tahche**, working across a five-app recruitment platform and building LLM-powered features that real users touch every day — not demos.
 
 The work I'm proudest of isn't the model call. It's everything around it: what happens when generation fails, how a user edits AI output without losing their draft, and how you ship the same AI experience into two different apps without forking the code.
 
@@ -42,12 +42,12 @@ Frontend contributor across the suite, with end-to-end ownership of specific mod
 
 `Vue 3` `TypeScript` `React Native` `Supabase (PostgreSQL, RLS)` `Node.js` `TanStack Query`
 
-### 📱 Live on the Play Store — Kyocera
+### 📱 Shipped to the Play Store — Kyocera
 Native Android work with real install bases, plus the release infrastructure behind it: Firebase (Analytics, Crashlytics, In-App Messaging, Push, Auth) and CI/CD with Jenkins + Fastlane.
 
 | App | What it does |
 |---|---|
-| [**ServiceNAVI Plus**](https://play.google.com/store/apps/details?id=com.kyocera.servicenavigation) | Field-service app that helps technicians diagnose and resolve issues on Kyocera MFP devices, cutting on-site service time. |
+| **ServiceNAVI Plus** <sub>— since retired by Kyocera</sub> | Field-service app that helped technicians diagnose and resolve issues on Kyocera MFP devices, cutting on-site service time. |
 | [**KYOCERA Mobile Print**](https://play.google.com/store/apps/details?id=com.kyocera.kyoprint) | Discovers compatible printers on the local network and enables mobile printing from Android. |
 | [**KYOCERA MyPanel**](https://play.google.com/store/apps/details?id=com.kyocera.externalpanel) | Remote control surface for print and imaging features on supported Kyocera printers and MFPs. |
 
@@ -72,11 +72,6 @@ Native Android work with real install bases, plus the release infrastructure beh
 ---
 
 ## Here on GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=christian-jayme&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christian-jayme&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages">
-</p>
 
 My production work lives in private company repos. What's public here is smaller, but it's where you can actually read how I structure an app.
 
