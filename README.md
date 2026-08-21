@@ -59,10 +59,10 @@ Native Android work with real install bases, plus the release infrastructure beh
 
 ## Stack
 
-**Web** · Vue 3 (Composition API, `<script setup>`), TypeScript, Pinia, TanStack Query, Vite, Tailwind, SCSS
-**Mobile** · React Native, Flutter / Dart, native Android (Kotlin, Java), Material Design
-**AI** · Anthropic Claude API, OpenAI-compatible APIs, prompt design for structured outputs, AI-first form flows
-**Backend & data** · Node.js, Express, Supabase (PostgreSQL, RLS, migrations), PostgREST, REST API design
+**Web** · Vue 3 (Composition API, `<script setup>`), TypeScript, Pinia, TanStack Query, Vite, Tailwind, SCSS<br>
+**Mobile** · React Native, Flutter / Dart, native Android (Kotlin, Java), Material Design<br>
+**AI** · Anthropic Claude API, OpenAI-compatible APIs, prompt design for structured outputs, AI-first form flows<br>
+**Backend & data** · Node.js, Express, Supabase (PostgreSQL, RLS, migrations), PostgREST, REST API design<br>
 **Delivery** · Git, GitHub Actions, Jenkins, Fastlane, Jira, Scrum / Kanban, release management
 
 <p>
