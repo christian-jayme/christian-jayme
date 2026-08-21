@@ -57,6 +57,28 @@ Native Android work with real install bases, plus the release infrastructure beh
 
 ---
 
+## Part-time builds
+
+Projects I build outside my day job. Private repos, so there's no code to link — here's what's in them.
+
+### 🧾 Hey Waitr POS — restaurant POS for Sunmi terminals
+React Native app running on Sunmi's Android POS hardware, built around the terminal's onboard thermal printer. Staff accept incoming orders, print receipts, and reconcile the day from the same device.
+
+The printer is the interesting constraint. Receipts go through a queue-based `useSunmiPrinter` hook that formats via native Sunmi commands and detects whether the attached model has an auto-cutter — so one build works across terminals with different hardware.
+
+Nine screens across five flows: order intake, advanced order filtering, sales and item-level statistics, order history split into completed / cancelled / refunded with reason tracking, and device settings. Domain state lives in `config`, `user`, `vendor` and `printQueue` modules, each exposing a Zustand store behind a single hook.
+
+`React Native` `TypeScript` `Zustand` `React Navigation v7` `Sunmi Printer Library` `i18n`
+
+### 💼 WorkIt — two-sided job matching app
+Flutter app for swipe-based hiring: job seekers swipe jobs, employers swipe applicants, and both sides can review what they've swiped. OTP phone auth, separate seeker and employer dashboards, profile editing with image upload, and a Dio-backed API layer.
+
+Still a prototype rather than a shipped app — the flows are wired end to end, but it hasn't been released.
+
+`Flutter` `Dart` `flutter_card_swiper` `Dio` `shared_preferences`
+
+---
+
 ## Stack
 
 **Web** · Vue 3 (Composition API, `<script setup>`), TypeScript, Pinia, TanStack Query, Vite, Tailwind, SCSS<br>
